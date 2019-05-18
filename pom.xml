@@ -14,6 +14,10 @@
     <description>KnowHowLab Versions Helper Maven Plugin</description>
     <url>http://knowhowlab.org</url>
 
+    <prerequisites>
+        <maven>3.5.0</maven>
+    </prerequisites>
+
     <developers>
         <developer>
             <name>Dmytro Pishchukhin</name>
@@ -74,7 +78,7 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-plugin-plugin</artifactId>
-                    <version>3.5</version>
+                    <version>3.6.0</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
@@ -84,7 +88,7 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-source-plugin</artifactId>
-                    <version>2.4</version>
+                    <version>3.0.1</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
