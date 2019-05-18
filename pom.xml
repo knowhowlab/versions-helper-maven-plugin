@@ -39,7 +39,7 @@
 
     <scm>
         <connection>scm:git:git@github.com:knowhowlab/versions-helper-maven-plugin.git</connection>
-        <url>git@github.com:knowhowlab/versions-helper-maven-plugin.git</url>
+        <url>https://github.com/knowhowlab/versions-helper-maven-plugin</url>
         <developerConnection>scm:git:git@github.com:knowhowlab/versions-helper-maven-plugin.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
