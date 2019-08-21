@@ -4,6 +4,9 @@ Maven Plugin to parse version strings and set properties containing parts of the
 
 [![Build Status](https://travis-ci.org/knowhowlab/versions-helper-maven-plugin.svg?branch=master)](https://travis-ci.org/knowhowlab/versions-helper-maven-plugin)
 
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dimi)
+
+
 ## Features
 
 - support of multiple version properties
